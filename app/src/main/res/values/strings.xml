@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OverLift</string>
+    <string name="welcomeMessage">Welcome to OverLift.</string>
+    <string name="description">\n\nYour personal gym tracker.</string>
+    <string name="homeScreenButton">Enter</string>
+    <string name="countButton">Count</string>
+</resources>
