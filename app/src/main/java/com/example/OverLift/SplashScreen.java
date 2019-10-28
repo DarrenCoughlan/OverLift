@@ -13,6 +13,7 @@ public class SplashScreen extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash_screen);
+        // This thread is used to call the main activity after the splash screen has shown for 3 seconds.
         Thread myThread = new Thread(){
             @Override
             public void run() {

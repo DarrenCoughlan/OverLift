@@ -4,4 +4,5 @@
     <string name="description">\n\nYour personal gym tracker.</string>
     <string name="homeScreenButton">Enter</string>
     <string name="countButton">Count</string>
+    <string name="add">Add</string>
 </resources>
